@@ -1,0 +1,4 @@
+storePassword=Ksv@14356
+keyPassword=Ksv@14356
+keyAlias=math
+storeFile=/Users/sreenivask/mathcrush.jks
